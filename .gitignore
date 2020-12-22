@@ -1,0 +1,7 @@
+*.pyc 
+MANIFEST
+README.txt
+dist/
+.vscode
+site/
+venv.sh
