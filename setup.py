@@ -21,7 +21,7 @@ classifiers = [
 ]
 setup(
     name="ms_drf_utils",
-    version="0.0.1",
+    version="0.0.2",
     description="Global Micro-services DRF utilities package",
     author="Damien Lopa",
     author_email="damien@lopa.io",
